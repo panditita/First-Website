@@ -1,0 +1,65 @@
+
+
+#titulo {
+  font-family: "Tangerine";
+  text-align: center;
+  font-size: 72px;
+}
+
+.history { 
+  margin-left: 1.5cm;
+  margin-right: 1.5cm;
+  font-size: 22px;
+  font-family: "Times New Roman", Georgia, Serif;
+
+  
+}
+.intro {
+  padding-top: 25px;    
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+  text-align: justify;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 18px
+
+}
+
+#intro-imagenes {
+  align: center;
+}
+
+.subtitulos{
+  padding-top: 500px; 
+  margin-left: 1.5cm;
+    margin-right: 1.5cm;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 30px
+}
+.glossary {
+     margin-left: 1.5cm;
+    margin-right: 1.5cm;
+  text-align: justify;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 18px
+
+}
+
+.platillos{
+   margin-left: .5cm;
+   margin-right: .5cm;
+  text-align: justify;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 14px
+
+}
+.col-md-3 {
+  align-content: center;
+  
+}
+
+.ancla{
+   margin-left: .5cm;
+   margin-right: .5cm;
+}
+
+
