@@ -25,7 +25,7 @@
 }
 
 #intro-imagenes {
-  align: center;
+  align-content: center;
 }
 
 .subtitulos{
@@ -52,9 +52,10 @@
   font-size: 14px
 
 }
-.col-md-3 {
-  align-content: center;
-  
+.centerBlock {
+  display: table;
+  margin: auto;
+
 }
 
 .ancla{
